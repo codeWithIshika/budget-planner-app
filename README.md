@@ -23,7 +23,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-![Dashboard](dashboard.png)
 ![Income](income.png)
 ![Expense](expense.png)
+![Dashboard](dashboard.png)
 ![Transactions](transactions.png)
