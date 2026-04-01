@@ -20,3 +20,10 @@ A simple and interactive budget planner built using Streamlit.
 ## ▶️ How to Run
 pip install streamlit
 streamlit run app.py
+
+## 📸 Screenshots
+
+![Dashboard](dashboard.png)
+![Income](income.png)
+![Expense](expense.png)
+![Transactions](transactions.png)
